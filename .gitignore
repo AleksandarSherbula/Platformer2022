@@ -1,0 +1,10 @@
+#Directories
+.vs/
+build/
+Planing/
+
+# files
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
